@@ -1,0 +1,9 @@
+Just a simple game! Took a 1 (ish...) hour challenge to build a simple 2 player command line tic tac toe game.
+
+Backlog:
+- Add testing
+- Fix some game bugs
+
+Next Version:
+- Create a version to play over the web
+- Allow play against an AI!
